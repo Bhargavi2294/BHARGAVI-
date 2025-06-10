@@ -13,3 +13,6 @@ numpy==1.26.4
 python -m venv test-env
 source test-.\test-env\Scripts\activate
 pip install -r requirements.txt
+git add requirements.txt
+git commit -m "Fix broken dependencies"
+git push
