@@ -8,4 +8,9 @@ Pillow
 streamlit
 pandas==2.2.0
 matplotlib
+streamlit
+pandas==2.2.1
+matplotlib
+numpy>=1.23
+
 
