@@ -12,5 +12,5 @@ streamlit
 pandas==2.2.1
 matplotlib
 numpy>=1.23
-
+pip install pip
 
