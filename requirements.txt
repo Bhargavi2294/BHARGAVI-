@@ -3,14 +3,8 @@ scikit-learn
 pandas
 pickle
 xgboost
-streamlit
+streamlit==1.0.0
 Pillow
 streamlit
-pandas==2.2.0
-matplotlib
-streamlit
-pandas==2.2.1
-matplotlib
-numpy>=1.23
-pip install --upgrade pip
-
+tensorflow
+matplotlib==3.10.0
