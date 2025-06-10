@@ -5,3 +5,7 @@ pickle
 xgboost
 streamlit
 Pillow
+streamlit
+pandas==2.2.0
+matplotlib
+
